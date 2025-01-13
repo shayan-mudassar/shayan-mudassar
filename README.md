@@ -81,4 +81,4 @@ Recognized as a **'Most Impactful' Engineer** in my previous role (top 5% of eng
 
 ---
 
-⭐️ *Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shayan) or explore my projects on [GitHub](https://github.com/shayan02)!*
+⭐️ *Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shayan-mudassar) or explore my projects on [GitHub](https://github.com/shayan02)!*

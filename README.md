@@ -39,7 +39,6 @@ Recognized as a **'Most Impactful' Engineer** in my previous role (top 5% of eng
 ![shayan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan02&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shayan02&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
-
 ---
 
 ⭐️ *Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shayan-mudassar) or explore my projects on [GitHub](https://github.com/shayan02)!*

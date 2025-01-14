@@ -7,45 +7,6 @@ Recognized as a **'Most Impactful' Engineer** in my previous role (top 5% of eng
 
 ---
 
-## 🛠️ Technical Proficiencies:
-- **Programming Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frontend Frameworks**: React.js, Next.js, React Native
-- **Backend Technologies**: Node.js, Express.js, Sequelize ORM
-- **Database Management**: DynamoDB, MySQL, Dynamoose
-- **Cloud & DevOps**: AWS (Lambda, API Gateway, S3, RDS, DynamoDB, Cognito), Serverless Architecture, CloudFormation, CI/CD
-- **Tools & Platforms**: Git, Docker, RabbitMQ, Postman, Jira
-- **Soft Skills**: Leadership, Problem-Solving, Adaptability, Team Collaboration, Critical Thinking
-
----
-
-## 💡 Career Highlights:
-- **Sr. Full Stack Developer | SMSami | Jan 2021 – Aug 2023**
-  - Architected and developed end-to-end serverless applications on AWS.
-  - Designed scalable serverless architectures leveraging AWS services like Lambda, API Gateway, DynamoDB, and S3.
-  - Spearheaded performance optimizations, enhancing system efficiency and scalability.
-  - Led the implementation of CI/CD pipelines for seamless deployment and automated testing.
-  - Mentored junior developers, fostering innovation and skill development.
-
-- **Jr. Full Stack Developer | AYS Electronics | Jun 2019 – Dec 2020**
-  - Contributed to the development of full-stack applications, collaborating on both frontend and backend components.
-  - Implemented UI enhancements using React and optimized backend processes using Node.js.
-
-- **Intern Front-End Developer | Shaheer Solutions | Mar 2018 – May 2019**
-  - Assisted in developing responsive web applications, focusing on enhancing user interfaces and ensuring cross-browser compatibility.
-
----
-
-## 📚 Education:
-- **Master of Engineering in Applied AI**  
-  London South Bank University, London
-  - Dissertation: Network Anamoly Detection
-
-- **Bachelor of Engineering in Computer Science**  
-  Agriculture University, Peshawar
-  - Dissertation: AR-based E-Commerce Application
-
----
-
 ## 🛠️ Tools & Technologies:
 <a href="https://aws.amazon.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>

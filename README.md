@@ -34,11 +34,10 @@ Recognized as a **'Most Impactful' Engineer** in my previous role (top 5% of eng
 ---
 
 ## 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shayan02?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+![](https://raw.githubusercontent.com/shayan02/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![shayan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan02&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shayan02&theme=dark&exclude_days=Sun%2CSat&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
 

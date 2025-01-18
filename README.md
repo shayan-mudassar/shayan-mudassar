@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shayan Mudassar
 
-### 🚀 Sr. Full Stack Developer | AWS Serverless Specialist
-I am a dynamic **Senior Full Stack Developer** with over **2.5 years of professional experience** in building **scalable**, **secure**, and **cloud-native** applications. I specialize in **AWS serverless architectures**, delivering robust, high-performance systems that handle over 100,000 requests monthly. With expertise in **React**, **Node.js**, **CI/CD pipelines**, and **microservices**, I thrive in collaborative environments and take pride in mentoring emerging talent.
+### 🚀 Sr. Full Stack Developer
+I am a dynamic **Senior Full Stack Developer** with over **3 years of professional experience** in building **scalable**, **secure**, and **cloud-native** applications. I specialize in **AWS serverless architectures**, delivering robust, high-performance systems that handle over 100,000 requests monthly. With expertise in **React**, **Node.js**, **CI/CD pipelines**, and **microservices**, I thrive in collaborative environments and take pride in mentoring emerging talent.
 
 Recognized as a **'Most Impactful' Engineer** in my previous role (top 5% of engineers) and promoted twice in just 18 months, I consistently deliver impactful solutions that drive success and innovation.
 

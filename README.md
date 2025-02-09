@@ -13,8 +13,6 @@ Welcome to my page; on my Github, you can find:
 - Tutorials around security and programming
 
 
-#### 📧 You can contact me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-mudassar/)
 
 *I am open to new opportunities.*
 
